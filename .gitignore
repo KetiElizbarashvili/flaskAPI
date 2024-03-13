@@ -9,9 +9,6 @@ __pycache__/
 *.log
 *.sqlite
 
-# Environment variables file
-.env
-
 # Static files
 /static
 
