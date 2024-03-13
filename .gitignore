@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment variables file
+.env
+
+# Static files
+/static
+
+# Compiled templates
+/templates/*.pyc
+
+# IDE-specific files (if you're using an IDE like PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+
+# Dependency directories
+/lib
+/lib64
+/bin
+/include
